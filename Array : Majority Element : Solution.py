@@ -1,7 +1,7 @@
 # promblem - Array Majority Elemnt 
 # Approach - Moore's Voting Algorithm
 # Time and space complexity - O(n) & O(1)
-# Leetcode - 169
+# Leetcode and diffculty - 169 & Easy
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
