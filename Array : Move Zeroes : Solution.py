@@ -1,7 +1,7 @@
 # Promblem - Move Zeroes 
 # Approach - Optimal Approach 
 # Time and space complexity - O(n) & O(1)
-# Leetcode - 283
+# Leetcode & DIffculty - 283 & Easy
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
