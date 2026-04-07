@@ -1,7 +1,7 @@
 # Promblem - sort colors
 # approach - 3 pointers
 # Time and space complexity - O(n) & O(1)
-# Leetcode - 75
+# Leetcode and diffculty level - 75 & Medium 
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
