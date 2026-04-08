@@ -1,7 +1,7 @@
 # Promblem - Maximum product subarray 
 # Approach - Dynamic programming 
 # Time and space complexity - O(n) & O(1)
-# Leetcode - 152
+# Leetcode and diffculty level  - 152 & medium
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
