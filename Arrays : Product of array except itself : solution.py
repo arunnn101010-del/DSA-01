@@ -1,7 +1,7 @@
 # Promblem - Product of array except itself 
 # Approach - Prefix + Suffix 
 # Time and space complexity - O(n) & O(1)
-# Leetcode - 238 
+# Leetcode and diffuculty level - 238 & medium 
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
