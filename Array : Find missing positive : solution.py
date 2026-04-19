@@ -1,7 +1,7 @@
 # Promblem - Find missing positive 
 # Appraoch - Cycle sorting 
 # Time and space complexity - O(n) & O(1)
-# Leetcode and diffculty level - 41 & medium 
+# Leetcode and diffculty level - 41 & hard
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
